@@ -1,6 +1,6 @@
 ## Lab 6
 
-### Goald and Outcomes
+### Goals and Outcomes
 
 1. Join GitHub and work through Introduction to GitHub course
 2. Create lab file
